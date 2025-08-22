@@ -1,4 +1,4 @@
-# 3D-ROBOT-ARM
+# 3D-Robotic-ARM
 # Robotic Arm 3D Design
 This project contains a 3D robotic arm design created using Onshape.
 
