@@ -7,9 +7,13 @@ Onshape: for designing and assembling mechanical parts.
 Parametric Design: applied for flexible modifications of dimensions and components.
 # Components of the Robotic Arm
 Base: provides stability and support.
+
 Joints: enable rotational movement and directional control.
+
 Arms/Links: interconnected segments for reach and flexibility.
-gripper
+
+gripper.
+
 # Features
 Flexible and customizable parametric design.
 Can be extended with servo motors or stepper motors for a functional prototype.
